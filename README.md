@@ -1,4 +1,4 @@
-
+DOI: 10.5072/zenodo.313890
 Understanding Overfitting in Deep Learning
 This project explores the concept of **overfitting** in deep learning, using **Convolutional Neural Networks (CNNs)** implemented in **TensorFlow**. We demonstrate how **Dropout**, a regularization technique, helps improve model generalization and prevents overfitting by comparing two models: one with Dropout and one without.
  What You'll Learn
