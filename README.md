@@ -1,4 +1,5 @@
-[![DOI](https://sandbox.zenodo.org/badge/1033514246.svg)](https://handle.stage.datacite.org/10.5072/zenodo.313889)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16898089.svg)](https://doi.org/10.5281/zenodo.16898089)
+
 
 
 Understanding Overfitting in Deep Learning
