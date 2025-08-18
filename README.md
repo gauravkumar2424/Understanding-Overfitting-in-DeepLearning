@@ -1,3 +1,16 @@
+# Author: Gaurav Kumar  
+### Embedded and AI Engineer  
+
+<img width="479" height="636" alt="image" src="https://github.com/user-attachments/assets/94cd3ba3-c028-4012-95bd-48a37f3302a9" />
+
+I am an **Embedded Systems and AI Engineer** passionate about solving real-world problems using deep learning and edge computing.  
+I enjoy sharing knowledge through open-source projects and tutorials, making complex topics easy to understand.
+
+
+
+
+
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16898089.svg)](https://doi.org/10.5281/zenodo.16898089)
 
 
